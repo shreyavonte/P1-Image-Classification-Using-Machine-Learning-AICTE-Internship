@@ -2,7 +2,7 @@
 
 I have done this project to classify images using CNN Model and pre-trained Mobile Net Model. I created streamlit app for the same.
 
-#Key features
+# Key features
 Dual Model Support:
 
 MobileNetV2 (ImageNet): Recognizes 1,000 different classes from the ImageNet dataset, including everyday objects, animals, and vehicles.
